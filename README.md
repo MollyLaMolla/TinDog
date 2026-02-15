@@ -59,11 +59,13 @@ No JavaScript logic — only Bootstrap’s built‑in components.
 # Clone the project
 git clone https://github.com/MollyLaMolla/TinDog.git
 cd TinDog
+
+# Open the site
+Open index.html in your browser
 ```
 ## 🌐 Live Demo
 [Try it here](https://mollylamolla.github.io/TinDog/)
 
 ## 📄 License
 This project is licensed under the ISC License.
-# Open the site
-Open index.html in your browser
+
